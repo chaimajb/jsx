@@ -8,7 +8,7 @@ function App() {
           <h1 className='title red'>Chaima</h1>
           <img src={mysourceimage} alt ='Totilas' width='250' /> 
           <br/>
-          <img src="/imageInPublic.jpg" width='250' ></img>
+          <img src="/imageInPublic.jpg" width='250' />
           <br/>
           <video 
               width="320" 
